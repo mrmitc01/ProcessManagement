@@ -6,7 +6,9 @@ The purposes of each of the following files are stated below:
 
 
 forker.c - to create a given number of processes and print each child's process ID and exit status
+
 forker.h - to define various constants
+
 tester.c - to test the program
 
 
